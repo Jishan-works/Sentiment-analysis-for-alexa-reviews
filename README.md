@@ -26,9 +26,9 @@ Chose F1 score because F1 Score is more useful than accuracy, especially in an u
 
 ![alt text](https://github.com/Jishan-works/Sentiment-analysis-for-alexa-reviews/blob/master/funnel_chart.png)
 
-#### Positive Wordcloud
+#### Positive Word cloud
 
-![alt text](https://github.com/Jishan-works/Sentiment-analysis-for-alexa-reviews/blob/master/positive_tect_wc.png)
+![alt text](https://github.com/Jishan-works/Sentiment-analysis-for-alexa-reviews/blob/master/positive_text_wc.png)
 
 #### Positive Treemap
 
