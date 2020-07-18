@@ -42,10 +42,10 @@ Dataset : Kaggle
 
 Both the NaiveBayes and Logistic Regression model performed on the same level on the test data.
 
-| Model                | Accuracy          |
-| ---------------------|:-----------------:|
-| NaiveBayes           | 93.65             |
-| Logistic Regression  | 93.80             |
+| Model                | Accuracy       |
+| ---------------------|:--------------:|
+| NaiveBayes           | 93.65 %        |
+| Logistic Regression  | 93.80 %        |
 
 
 
