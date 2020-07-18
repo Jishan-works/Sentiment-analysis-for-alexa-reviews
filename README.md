@@ -1,6 +1,6 @@
 # Repo for sentiment analysis on Alexa reviews
 
-1. Built a simple model that analyse sentiment of the reviews
+1. Built a simple model that analyses the sentiment of the reviews. It helps the companies to understand the customers take on the products.
 2. Cleaned the data and performed EDA to get a better understanding of the data.
 3. Used NaiveBayes and logistic regression model to get prediction result of 93% accuracy.
 
@@ -12,15 +12,15 @@ Packages: pandas, numpy, sklearn, matplotlib, plotly, nltk, wordcloud, pillow, s
 
 Dataset : Kaggle
 
-## Model Building:
+## Model Building
 
 * Cleaned the data by removing punctuations and stopwords.
-* Performed tokenization.
+* Performed Tokenization/Count vectorization of texts.
 * Transformed the categorical variables into dummy variables. Split the data into train and tests sets with a train size of 80%.
 * Tried two different models and evaluated them using F1 score.
 * Chose F1 score because F1 Score is more useful than accuracy, especially in an uneven class distribution.
 
-### Visualizations
+## Visualizations
 
 #### Funnel chart 
 
@@ -37,5 +37,19 @@ Dataset : Kaggle
 #### Negative Treemap
 
 ![alt text](https://github.com/Jishan-works/Sentiment-analysis-for-alexa-reviews/blob/master/treemap_negative.png)
+
+## Model Performance
+
+Both the NaiveBayes and Logistic Regression model performed on the same level on the test data.
+
+| Model             | Accuracy          |
+| ------------------|:-----------------:|
+| XGB               | 93.65             |
+| Random Forest     | 93.80             |
+
+
+
+
+
 
 
