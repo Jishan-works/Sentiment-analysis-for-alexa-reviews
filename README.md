@@ -44,8 +44,8 @@ Both the NaiveBayes and Logistic Regression model performed on the same level on
 
 | Model                | Accuracy       |
 | ---------------------|:--------------:|
-| NaiveBayes           | 93.65 %        |
-| Logistic Regression  | 93.80 %        |
+| NaiveBayes           | 94.44 %        |
+| Logistic Regression  | 95.39 %        |
 
 
 
