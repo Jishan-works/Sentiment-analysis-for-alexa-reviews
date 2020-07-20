@@ -28,7 +28,7 @@ Dataset : Kaggle
 
 #### Positive Word cloud
 
-
+![alt text](https://github.com/Jishan-works/Sentiment-analysis-for-alexa-reviews/blob/master/positive_text_wc.png)
 
 #### Positive Treemap
 
